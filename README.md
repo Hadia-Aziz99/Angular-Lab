@@ -8,18 +8,18 @@ The repository is organized into several standalone Angular projects:
 
 | Project Name | Description |
 | :--- | :--- |
-| **[calculator-app](./calculator-app)** | A simple calculator for basic mathematical operations. |
-| **[Todo-list](./Todo-list)** | A task management application to add, track, and delete tasks. |
-| **[Student-details](./Student-details)** | Application to display and manage student-related information. |
-| **[Employee-details](./Employee-details)** | Management system for employee records. |
-| **[User-Management](./User-Management)** | A dashboard for managing user profiles and permissions. |
-| **[Date-display](./Date-display)** | Demonstrates the usage of Date pipes and real-time clock. |
-| **[Uppercase-app](./Uppercase-app)** | Showcases data transformation using Angular pipes. |
-| **[fullname-app](./fullname-app)** | A simple form application focusing on two-way data binding. |
-| **[item-collection](./item-collection)** | Displays a collection of items with filtering capabilities. |
-| **[login-form](./login-form)** | A template-driven or reactive form for user authentication. |
-| **[math-operations](./math-operations)** | Practical implementation of basic arithmetic in Angular. |
-| **[shopping-items](./shopping-items)** | An e-commerce themed list of products with a shopping cart feel. |
+| **[calculator-app]** | A simple calculator for basic mathematical operations. |
+| **[Todo-list]** | A task management application to add, track, and delete tasks. |
+| **[Student-details]** | Application to display and manage student-related information. |
+| **[Employee-details])** | Management system for employee records. |
+| **[User-Management]** | A dashboard for managing user profiles and permissions. |
+| **[Date-display]** | Demonstrates the usage of Date pipes and real-time clock. |
+| **[Uppercase-app]** | Showcases data transformation using Angular pipes. |
+| **[fullname-app]** | A simple form application focusing on two-way data binding. |
+| **[item-collection]** | Displays a collection of items with filtering capabilities. |
+| **[login-form]** | A template-driven or reactive form for user authentication. |
+| **[math-operations]** | Practical implementation of basic arithmetic in Angular. |
+| **[shopping-items]** | An e-commerce themed list of products with a shopping cart feel. |
 
 ---
 
